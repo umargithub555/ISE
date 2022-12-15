@@ -1,0 +1,11 @@
+1.touch .gitignore
+2.git config --global user.name umar
+3.git config --global user.email shayanumar5555@gmail.com
+4.git init
+5.git add .
+6.git commit -m "Initial Commit"
+7.git status
+8.ssh-keygen -t rsa -b 4096 -C "umargithub555.com"
+9. tail <path to id_rsa.pub> //(/c/Users/PC/.ssh/id_rsa.pub) "add this to github"
+10.git remote add origin<ssh url.git>
+11.git push origin master
